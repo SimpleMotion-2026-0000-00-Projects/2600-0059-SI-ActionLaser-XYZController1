@@ -4,14 +4,14 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**260049-SI-99-ActionLaser-XYZController1** - Project repository
+**260059-SI-99-ActionLaser-XYZController1** - Project repository
 
 ActionLaser XYZController1
 
 ## Repository Details
 
 - **Organization:** SimpleMotion-26-Projects
-- **Project ID:** 260049
+- **Project ID:** 260059
 - **Type:** Project
 
 ## Notes
