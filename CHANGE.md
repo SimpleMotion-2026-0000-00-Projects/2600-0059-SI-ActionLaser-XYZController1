@@ -2,6 +2,7 @@
 
 | Version | Hash | Date | Author | Message |
 |---------|------|------|--------|---------|
+| v0.0.1.3 | d37ebf7 | 2026-04-10 13:44 UTC | Greg Gowans | Update .claude submodule to v0.0.1.40 |
 | v0.0.0.22 | 85de155 | 2026-04-04 22:11 UTC | Greg Gowans | Update CHANGE.md to reflect all tagged commits |
 | v0.0.0.21 | fd51957 | 2026-04-03 14:03 UTC | Greg Gowans | Remove old ASSIGNMENT.md |
 | v0.0.0.20 | b98cdee | 2026-04-03 14:03 UTC | Greg Gowans | Rename ASSIGNMENT.md → ASSIGN.md |
